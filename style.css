@@ -1,0 +1,49 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(45, 67, 133);
+    
+}
+
+.hed{
+    color: #4abf0b;
+    transition: color 1.0 ease;
+}
+
+.head:hover{
+    color: #aef986;
+}
+
+.flowers{
+    padding-left: 5%;
+    padding-top: 11%;
+}
+
+.lily{
+    color: #091304;
+    transition: 0.9 ease;
+}
+
+.lily:hover{
+    color: rgb(255, 255, 255);
+
+}
+
+.zanzibar{
+    color: #091304;
+    transition: color 0.9 ease;
+    padding-top: 5%;
+
+}
+
+.zanzibar:hover{
+    color: rgb(255, 255, 255);
+}
+
+.dis{
+    color: rgba(0, 0, 0, 0.571);
+}
+
+headline{
+    color: #59ff006f;
+}
